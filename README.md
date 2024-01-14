@@ -1,3 +1,4 @@
 # Software Developer
 
-##Education
+###Education
+BFA Graphic Design
