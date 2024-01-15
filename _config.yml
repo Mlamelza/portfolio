@@ -1,5 +1,5 @@
 title: Melissa Lamelza
 logo: /images/pic.jpg
 #description: text below image
-#show-downloads: true
+show-downloads: true
 theme: jekyll-theme-dinky
