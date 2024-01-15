@@ -2,3 +2,5 @@
 
 ### Education
 BFA Graphic Design
+
+### Work Experience
