@@ -1,6 +1,6 @@
 title: Melissa Lamelza
 #logo: images/logo.jpg
-image: images/logo.jpg
+image: images/profile1.png
 #description: text below image
 show_downloads: true
-theme: jekyll-theme-dinky
+theme: jekyll-theme-minimal
