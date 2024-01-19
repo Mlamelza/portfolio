@@ -1,6 +1,6 @@
 # Software Developer
 
-![Tux, the Linux mascot](images/logo.jpg)
+![Tux, the Linux mascot](images/logo1.jpg)
 
 ### Education
 BFA Graphic Design
