@@ -12,4 +12,19 @@ I am a highly-motivated, aspiring full-stack developer, exhibiting strong team-b
 * PHP
 * Javascript
 
+#### <span style="color:cadetblue">Web Development</span>
+
+* HTML
+* CSS
+* Bootstrap
+* WordPress
+
+#### <span style="color:cadetblue">Database Management</span>
+
+* SQL
+* MySQL
+* MySQL Workbench
+* phpMyAdmin
+* MS Access
+
 ### Work Experience
