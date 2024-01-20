@@ -26,4 +26,12 @@ I am a highly-motivated, aspiring full-stack developer, exhibiting strong team-b
 * phpMyAdmin
 * MS Access
 
+### Capstone Projects
+<span style="color:steelblue">
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title |
+| Paragraph   | First paragraph. <br><br> Second paragraph. |
+
+</span>
 ### Work Experience
