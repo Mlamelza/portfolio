@@ -65,7 +65,7 @@ Earned AAS Degree in Computer Programming
 > restaurant business. Worked in Mobile App Development.
 
 ### <span style="color:steelblue">East Carolina University</span>
-> Earned BFA Degree in the Communication Arts: Graphic Design
+Earned BFA Degree in the Communication Arts: Graphic Design
 > Created aesthetically pleasing solutions in order to successfully
 > communicate ideas, thoughts, and pertinent information via
 > visual conceptualization. Developed a plethora of graphic
