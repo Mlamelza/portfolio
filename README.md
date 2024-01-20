@@ -13,7 +13,7 @@ I am a highly-motivated, aspiring full-stack developer, exhibiting strong team-b
 * PHP
 * Javascript
 
-### <span style="color:#95A5A6">Web Development</span>
+### <span style="color:#0B5345">Web Development</span>
 
 * HTML
 * CSS
