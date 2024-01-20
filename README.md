@@ -36,8 +36,10 @@ I am a highly-motivated, aspiring full-stack developer, exhibiting strong team-b
 ### Graphic Design [Portfolio Showcase](http://portfolio.melissalamelza.com/).
 * Created utilizing the WordPress CMS
 * Digital showcase of the visual arts
-* Unique logo branding, poster art, package design, and marketing materials
-* Establishing creative solutions via visual conceptualization
+* Unique logo branding, poster art, and package design
+* Creative solutions via visual conceptualization
+  
 ___
+
 
 ## Work Experience
