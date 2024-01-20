@@ -6,7 +6,7 @@ I am a highly-motivated, aspiring full-stack developer, exhibiting strong team-b
 <img src="images/logo1.jpg" width="200">-->
 
 ## Technical Qualifications
-### <span style="color:steelblue">Programming Languages</span>
+### <span style="color:#4a8685">Programming Languages</span>
 
 * Python
 * Java
@@ -20,7 +20,7 @@ I am a highly-motivated, aspiring full-stack developer, exhibiting strong team-b
 * Bootstrap
 * WordPress
 
-### <span style="color:steelblue">Database Management</span>
+### <span style="color:#4a8685">Database Management</span>
 
 * SQL
 * MySQL
@@ -45,7 +45,7 @@ ___
 
 
 ## Education
-### <span style="color:steelblue">Western Kentucky University</span>
+### <span style="color:#4a8685">Western Kentucky University</span>
 Pursuing BS Degree in Computer Information Technology
 > Build real-world full-stack applications with a focus on the
 > creation, maintenance, and use of databases for the end-user.
@@ -55,7 +55,7 @@ Pursuing BS Degree in Computer Information Technology
 > organizational, communication, team-building & leadership 
 > skills utilized within the software development cycle.
 
-### <span style="color:steelblue">Horry-Georgetown Technical College</span>
+### <span style="color:#4a8685">Horry-Georgetown Technical College</span>
 Earned AAS Degree in Computer Programming
 > Acquired the technical knowledge & skills devoted to the 
 > implementation of the software development lifecycle. 
@@ -65,7 +65,7 @@ Earned AAS Degree in Computer Programming
 > and implementing a detailed point-of-sale system for a
 > restaurant business. Worked in Mobile App Development.
 
-### <span style="color:steelblue">East Carolina University</span>
+### <span style="color:#4a8685">East Carolina University</span>
 Earned BFA Degree in the Communication Arts: Graphic Design
 > Created aesthetically pleasing solutions in order to successfully
 > communicate ideas, thoughts, and pertinent information via
