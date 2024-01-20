@@ -27,8 +27,7 @@ I am a highly-motivated, aspiring full-stack developer, exhibiting strong team-b
 * MS Access
 
 ## Capstone Projects
-<span style="color:steelblue">
-  Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
+Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
 Vittles Restaurant Group [POS System](https://www.loom.com/share/fbf197d4fa9a4a728485856623861eb3?sid=7642899d-c803-4ec0-b441-8404d9e9d82e/) created utilizing LAMP stack & Bootstrap environments.
-</span>
+
 ### Work Experience
