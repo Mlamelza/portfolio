@@ -5,6 +5,7 @@ I am a highly-motivated, aspiring full-stack developer, exhibiting strong team-b
 
 ### Technical Qualifications
 #### <span style="color:darkcyan">Programming Languages</span>
+#### <span style="color:cadetblue">Programming Languages</span>
 
 * Python
 * Java
