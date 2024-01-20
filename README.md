@@ -33,4 +33,9 @@ I am a highly-motivated, aspiring full-stack developer, exhibiting strong team-b
 * Created utilizing Bootstrap and LAMP stack environments
 * Tasks allowed based on user set permission levels
 
+### Graphic Design [Portfolio Showcase](http://portfolio.melissalamelza.com/).
+* Created utilizing the WordPress CMS
+* Digital showcase of the visual arts
+* Works include unique logo branding, package design, and marketing materials
+
 ## Work Experience
