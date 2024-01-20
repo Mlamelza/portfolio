@@ -32,5 +32,10 @@ I am a highly-motivated, aspiring full-stack developer, exhibiting strong team-b
 | -------- | ------- |
 | January  | $250    |
 | February | $80     |
-| March    | $420    |</span>
+| March    | $420    |
+```sh
+cd dillinger
+npm i
+node app
+```</span>
 ### Work Experience
