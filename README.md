@@ -4,7 +4,7 @@ I am a highly-motivated, aspiring full-stack developer, exhibiting strong team-b
 <img src="images/logo1.jpg" width="200">-->
 
 ### Technical Qualifications
-<span style="color:blue"> *some emphasized markdown text*</span>
+<span style="color:blue"> Programming Languages</span>
 #### Programming Languages
 * Python
 * Java
