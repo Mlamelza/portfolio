@@ -55,5 +55,13 @@ Pursuing BS Degree in Computer Information Technology
 
 ### <span style="color:steelblue">Horry-Georgetown Technical College</span>
 Earned AAS Degree in Computer Programming
+> Acquired the technical knowledge & skills devoted to the 
+> implementation of the software development lifecycle. 
+> Gained proficiency in a number of programming languages,
+> including Python, Java, PHP, Javascript, and SQL. Actively 
+> involved in the detailed stages of planning, designing, hosting, 
+> and implementing a detailed point-of-sale system for a
+> restaurant business. Worked in Mobile App Development.
+
 
 
