@@ -37,5 +37,6 @@ I am a highly-motivated, aspiring full-stack developer, exhibiting strong team-b
 * Created utilizing the WordPress CMS
 * Digital showcase of the visual arts
 * Works include unique logo branding, package design, and marketing materials
+___
 
 ## Work Experience
