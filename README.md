@@ -45,11 +45,15 @@ ___
 ## Education
 ### <span style="color:steelblue">Western Kentucky University</span>
 Pursuing BS Degree in Computer Information Technology
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
+> Build real-world full-stack applications with a focus on the
+> creation, maintenance, and use of databases for the end-user.
+> Successful collaboration with fellow team members of varying 
+> backgrounds, including software & web application developers,
+> database administrators, and graphic designers. Excellent 
+> organizational, communication, team-building & leadership 
+> skills utilized within the software development cycle.
+
+### <span style="color:steelblue">Horry-Georgetown Technical College</span>
+Earned AAS Degree in Computer Programming
+
 
