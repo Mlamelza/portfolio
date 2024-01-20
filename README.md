@@ -69,7 +69,7 @@ Earned BFA Degree in the Communication Arts: Graphic Design
 > Created aesthetically pleasing solutions in order to successfully
 > communicate ideas, thoughts, and pertinent information via
 > visual conceptualization. Developed a plethora of graphic
-> interpretations, including unique logo branding & company
+> interpretations, including logo branding & company
 > identification, marketing materials, product & package design.
 
 
