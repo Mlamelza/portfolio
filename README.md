@@ -3,22 +3,22 @@ I am a highly-motivated, aspiring full-stack developer, exhibiting strong team-b
 <!--![Tux, the Linux mascot](images/logo1.jpg) # Software Developer
 <img src="images/logo1.jpg" width="200">-->
 
-### Technical Qualifications
-#### <span style="color:steelblue">Programming Languages</span>
+## Technical Qualifications
+### <span style="color:steelblue">Programming Languages</span>
 
 * Python
 * Java
 * PHP
 * Javascript
 
-#### <span style="color:steelblue">Web Development</span>
+### <span style="color:steelblue">Web Development</span>
 
 * HTML
 * CSS
 * Bootstrap
 * WordPress
 
-#### <span style="color:steelblue">Database Management</span>
+### <span style="color:steelblue">Database Management</span>
 
 * SQL
 * MySQL
@@ -26,12 +26,12 @@ I am a highly-motivated, aspiring full-stack developer, exhibiting strong team-b
 * phpMyAdmin
 * MS Access
 
-### Capstone Projects
+## Capstone Projects
 <span style="color:steelblue">
 | Syntax      | Description |
 | ----------- | ----------- |
 | Header      | Title |
-| Paragraph   | First paragraph. <br><br> Second paragraph. |
+| Paragraph   | First parag |
 
 </span>
 ### Work Experience
