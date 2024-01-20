@@ -1,5 +1,5 @@
 I am a highly-motivated, aspiring full-stack developer, exhibiting strong team-building & leadership skills. I have worked on a number of collaborative projects within the mobile and web application development environments. I have a passion for learning and an insatiable thirst for knowledge, while exhibiting a positive attitude, and the ability to thrive within a challenging & thought-provoking working environment.
-[Full Resume](Lamelza_CV.pdf)
+[Full Resume PDF](Lamelza_CV.pdf)
 
 <!--![Tux, the Linux mascot](images/logo1.jpg) # Software Developer
 <img src="images/logo1.jpg" width="200">-->
@@ -63,6 +63,15 @@ Earned AAS Degree in Computer Programming
 > involved in the detailed stages of planning, designing, hosting, 
 > and implementing a detailed point-of-sale system for a
 > restaurant business. Worked in Mobile App Development.
+
+### <span style="color:steelblue">East Carolina University</span>
+> Earned BFA Degree in the Communication Arts: Graphic Design
+> Created aesthetically pleasing solutions in order to successfully
+> communicate ideas, thoughts, and pertinent information via
+> visual conceptualization. Developed a plethora of graphic
+> interpretations, including unique logo branding & company
+> identification, marketing materials, product & package design.
+
 
 
 
