@@ -28,10 +28,9 @@ I am a highly-motivated, aspiring full-stack developer, exhibiting strong team-b
 
 ## Capstone Projects
 <span style="color:steelblue">
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title |
-| Paragraph   | First parag |
-
-</span>
+| Month    | Savings |
+| -------- | ------- |
+| January  | $250    |
+| February | $80     |
+| March    | $420    |</span>
 ### Work Experience
